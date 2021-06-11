@@ -11,7 +11,7 @@ namespace JoinedTogether.Entities
     {
         Rectangle bbox;
         Vector2 position, velocity;
-        const float MOVE_SPEED = 500;
+        const float MOVE_SPEED = 100;
 
         public Player()
         {
